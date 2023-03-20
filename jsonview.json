@@ -1,0 +1,1306 @@
+{
+  'articles': [
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mariella Moon',
+      'title': 'Tesla denies firing New York workers in retaliation for union activity',
+      'description': "Tesla has denied that it terminated employees at its Buffalo, New York Autopilot facility in response to a new union campaign. Days after workers at the facility sent a letter to company chief Elon Musk stating their intention to unionize, the campaign's orga…",
+      'url': 'https://www.engadget.com/tesla-denies-firing-new-york-workers-retaliation-union-activity-060322521.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/uMKeXq0GVtycSBxL4ItjDQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-01/2b63c4c0-9814-11ed-9ef7-cb0160070c27.cf.jpg',
+      'publishedAt': '2023-02-17T06:03:22Z',
+      'content': 'Tesla has denied that it terminated employees at its Buffalo, New York Autopilot facility in response to a new union campaign. Days after workers at the facility sent a letter to company chief Elon M… [+2268 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Igor Bonifacic',
+      'title': 'Tesla raises Model Y pricing following federal tax credit change',
+      'description': 'Tesla has quietly raised the price of its best-selling Model Y crossover. As of Saturday, the automaker’s US website\r\n lists the Long Range and Performance models at $54,990 and $57,990, respectively. For the former, that represents a $2,000 increase from the…',
+      'url': 'https://www.engadget.com/tesla-raises-model-y-pricing-following-federal-tax-credit-expansion-195952937.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2022-04/d5b05ef0-ba6d-11ec-bffe-4ecbe085a8e9',
+      'publishedAt': '2023-02-04T19:59:52Z',
+      'content': 'Tesla has quietly raised the price of its best-selling Model Y crossover. As of Saturday, the automakers US website\r\n lists the Long Range and Performance models at $54,990 and $57,990, respectively.… [+1169 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Andrew Tarantola',
+      'title': 'Tesla recalls over 360,000 vehicles for Full Self Driving crash risk',
+      'description': 'Apparently those Super Bowl ads finally did the trick. The National Highway Traffic Safety Administration announced on Thursday that Tesla is recalling nearly 363,000 of its vehicles because the Full Self-Driving software may cause a crash. Specifically, the …',
+      'url': 'https://www.engadget.com/tesla-recalls-over-360000-vehicles-for-full-self-driving-crash-risk-180110819.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/CC_rvnSgKAf1hf0BuhcwXQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/8365f920-ae23-11ed-b7f3-1b88cac86eb0.cf.jpg',
+      'publishedAt': '2023-02-16T18:01:10Z',
+      'content': 'Apparently those Super Bowl ads finally did the trick. The National Highway Traffic Safety Administration announced on Thursday that Tesla is recalling nearly 363,000 of its vehicles because the Full… [+1400 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mariella Moon',
+      'title': 'Tesla workers accuse Twitter of hiding their union account from search results',
+      'description': 'Tesla workers at the company\'s Buffalo Gigafactory have filed a complaint with the National Labor Relations Board (NLRB) accusing Twitter of "shadowbanning" their newly made union account, according to Vice News. The group announced their intention to unioniz…',
+      'url': 'https://www.engadget.com/tesla-workers-accuse-twitter-hiding-union-account-search-results-160832328.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/1PfbNTcVH4i_5Ebr9aeaig--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-01/faa0ab30-9c25-11ed-bddd-caccffb3ad8a.cf.jpg',
+      'publishedAt': '2023-02-18T16:08:32Z',
+      'content': 'Tesla workers at the company\'s Buffalo Gigafactory have filed a complaint with the National Labor Relations Board (NLRB) accusing Twitter of "shadowbanning" their newly made union account, according … [+3004 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Karissa Bell',
+      'title': "Jury rules Elon Musk is not liable for shareholder losses after 'funding secured' tweets",
+      'description': 'Elon Musk is off the hook for his 2018 tweets claiming he had “funding secured” to take Tesla private for $420 a share. A jury found that Musk was not liable\r\n for Tesla investors’ losses, following a weeks-long trial in San Francisco.The verdict is a major v…',
+      'url': 'https://www.engadget.com/elon-musk-tesla-shareholder-trial-verdict-232434731.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2023-01/faa0ab30-9c25-11ed-bddd-caccffb3ad8a',
+      'publishedAt': '2023-02-03T23:24:34Z',
+      'content': 'Elon Musk is off the hook for his 2018 tweets claiming he had funding secured to take Tesla private for $420 a share. A jury found that Musk was not liable\r\n for Tesla investors losses, following a w… [+366 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Jon Fingas',
+      'title': "Tesla's five-seat Model Y and other EVs now qualify for the new $7,500 federal tax credit",
+      'description': "Don't worry if the lack of a federal tax credit put you off from buying certain Tesla Model Y variants or other EVs — they might now qualify. The Treasury Department has revised its classification standard to treat more vehicles as SUVs rather than sedans, ra…",
+      'url': 'https://www.engadget.com/tesla-model-y-ev-tax-credit-2023-174121949.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2023-01/f59267f0-967b-11ed-bfba-7b41d865d04f',
+      'publishedAt': '2023-02-03T17:41:21Z',
+      'content': "Don't worry if the lack of a federal tax credit put you off from buying certain Tesla Model Y variants or other EVs they might now qualify. The Treasury Department has revised its classification stan… [+1589 chars]"
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Kris Holt',
+      'title': "Lucid tries to keep pace with rivals with a $7,500 'EV credit'",
+      'description': 'Lucid’s\r\n luxury Air\r\n electric vehicle exceeds the thresholds for federal tax credits, but the company is still offering what it’s calling an “EV credit.” Until March 31st, those who buy certain configurations of Lucid Air Touring and Air Grand Touring model…',
+      'url': 'https://www.engadget.com/lucid-air-discount-ev-152755988.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2023-02/45ba3640-a88d-11ed-b6ff-8200145fa927',
+      'publishedAt': '2023-02-09T15:28:16Z',
+      'content': 'Lucids\r\n luxury Air\r\n electric vehicle exceeds the thresholds for federal tax credits, but the company is still offering what its calling an EV credit. Until March 31st, those who buy certain configu… [+1347 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mat Smith',
+      'title': 'The Morning After:‘ Ant-Man and the Wasp: Quantumania’ and problem with too much VFX',
+      'description': 'It’s time for more Marvel Cinematic Universe, more special effects, more families in danger and more sinister baddies, with a bigger role for Kang the Conqueror – the big cross-movie threat, a la Thanos – played by Jonathan Majors. Alas, Ant-Man and the Wasp:…',
+      'url': 'https://www.engadget.com/the-morning-after-ant-man-and-the-wasp-quantumania-and-problem-with-too-much-vfx-121554495.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/HWQuDcTql7nt7AEpW78EOA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/75558460-b2ef-11ed-b7f3-a553f71e0cec.cf.jpg',
+      'publishedAt': '2023-02-24T12:15:54Z',
+      'content': 'Its time for more Marvel Cinematic Universe, more special effects, more families in danger and more sinister baddies, with a bigger role for Kang the Conqueror the big cross-movie threat, a la Thanos… [+3299 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mat Smith',
+      'title': 'The Morning After: The verdict on PlayStation VR2',
+      'description': 'PlayStation’s next-gen VR headset is here. It’s high-spec and, boy, high priced. Engadget’s Devindra Hardawar says it’s a massive step forward from the original PSVR, thanks to its high-resolution screens and innovative features like headset haptics.\r\nEngadge…',
+      'url': 'https://www.engadget.com/the-morning-after-the-verdict-on-playstation-vr2-121641073.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/czVEIrc6etU5GOCsoBjSAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/20bbd567-adb5-11ed-bb3f-93e019c44019.cf.jpg',
+      'publishedAt': '2023-02-17T12:16:41Z',
+      'content': 'PlayStations next-gen VR headset is here. Its high-spec and, boy, high priced. Engadgets Devindra Hardawar says its a massive step forward from the original PSVR, thanks to its high-resolution screen… [+4077 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Karissa Bell',
+      'title': 'Twitter updates violent speech policy to ban ‘wishes of harm’',
+      'description': 'Twitter is once again tightening its rules around what users are permitted to say on the platform. The company introduced\r\n an updated “violent speech” policy, which contains some notable additions compared with previous versions of the rules.Interestingly, t…',
+      'url': 'https://www.engadget.com/twitter-updates-violent-speech-policy-to-ban-wishes-of-harm-214320985.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/F4oOcHIRVRWh9cWN_pLOpw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/7ed85520-b7af-11ed-973f-5d8d795ebddc.cf.jpg',
+      'publishedAt': '2023-02-28T21:43:20Z',
+      'content': 'Twitter is once again tightening its rules around what users are permitted to say on the platform. The company introduced\r\n an updated violent speech policy, which contains some notable additions com… [+2241 chars]'
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mat Smith',
+      'title': 'The Morning After: Our verdict on the Galaxy S23 Ultra and its 200-megapixel camera',
+      'description': "Samsung's flagship phone of 2023 is here – if you don’t count the foldables. The Galaxy S23 Ultra starts at $1,200 and has a big, beautiful OLED screen, better cameras, a new chip for even better performance and some revamped software. And, of course, there’s…",
+      'url': 'https://www.engadget.com/the-morning-after-our-verdict-on-the-galaxy-s23-ultra-and-its-200-megapixel-camera-121516969.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2023-02/8c5faee0-a87e-11ed-bbfa-64d6f25d0e4a',
+      'publishedAt': '2023-02-10T12:15:16Z',
+      'content': "Samsung's flagship phone of 2023 is here if you dont count the foldables. The Galaxy S23 Ultra starts at $1,200 and has a big, beautiful OLED screen, better cameras, a new chip for even better perfor… [+3716 chars]"
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mat Smith',
+      'title': 'The Morning After: Elon Musk reportedly had his own tweets boosted out of jealousy',
+      'description': "If you've been using Twitter's For You feed this week, you might’ve noticed the algorithmic feed showed a lot of Elon Musk's tweets and replies. According to Platformer, which interviewed Twitter employees, engineers tweaked the social network to benefit thei…",
+      'url': 'https://www.engadget.com/the-morning-after-elon-musk-reportedly-had-his-own-tweets-boosted-out-of-jealousy-121455125.html',
+      'urlToImage': 'https://s.yimg.com/uu/api/res/1.2/ogEIt2i.neaFBFrXR8mNRA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/286a0850-ac42-11ed-be7a-a9a05f1f255e.cf.jpg',
+      'publishedAt': '2023-02-16T12:14:55Z',
+      'content': "If you've been using Twitter's For You feed this week, you mightve noticed the algorithmic feed showed a lot of Elon Musk's tweets and replies. According to Platformer, which interviewed Twitter empl… [+3094 chars]"
+    },
+    {
+      'source': {
+        'id': 'engadget',
+        'name': 'Engadget'
+      },
+      'author': 'Mat Smith',
+      'title': "The Morning After: Amazon still plans to 'go big' on grocery stores",
+      'description': 'Despite recently saying it would lay off more than 18,000 people, Amazon is still looking to expand its empire – which could mean more physical stores. CEO Andy Jassy told the Financial Times that Amazon still plans to “go big” on its brick-and-mortar grocery…',
+      'url': 'https://www.engadget.com/the-morning-after-amazon-still-plans-to-go-big-on-grocery-stores-121754407.html',
+      'urlToImage': 'https://s.yimg.com/os/creatr-uploaded-images/2023-01/e3f8d020-9eef-11ed-b7df-9abd21bfc1dc',
+      'publishedAt': '2023-02-15T12:17:54Z',
+      'content': 'Despite recently saying it would lay off more than 18,000 people, Amazon is still looking to expand its empire which could mean more physical stores. CEO Andy Jassy told the Financial Times that Amaz… [+3400 chars]'
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'Aarian Marshall',
+      'title': 'The Mystery Vehicle at the Heart of Tesla’s New Master Plan',
+      'description': 'Elon Musk says a new Tesla will rewire the company and help save the world, but he won’t tell investors what it is.',
+      'url': 'https://www.wired.com/story/the-mystery-vehicle-at-the-heart-of-teslas-new-master-plan/',
+      'urlToImage': 'https://media.wired.com/photos/6400ba00e387037f2c11e14f/191:100/w_1280,c_limit/musk_investorday_GettyImages-1246507198.jpg',
+      'publishedAt': '2023-03-02T17:15:00Z',
+      'content': 'Nearly four hours into Teslas marathon Investor Day, someone in the audience tried again to bring Elon Musk, the Tesla (and Twitter and SpaceX) CEO back to the present day. From a stage at the Gigafa… [+3792 chars]'
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'David Nield',
+      'title': 'These Apps Will Keep Your EV from Running Out of Juice',
+      'description': 'Stay charged from point A to point B.',
+      'url': 'https://www.wired.com/story/apps-find-electric-vehicle-battery-charge-locations/',
+      'urlToImage': 'https://media.wired.com/photos/63dd63146b5ef8378208e5ea/191:100/w_1280,c_limit/Apps-to-Help-You-Plan-an-EV-Road-Trip-Gear-GettyImages-1360553313.jpg',
+      'publishedAt': '2023-02-05T12:00:00Z',
+      'content': "If you've invested in an electric vehicle, you need to make sure there are enough charging points along your chosen routes before you hit the road. It's no different from driving a gas-powered car, w… [+1589 chars]"
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'Chris Stokel-Walker',
+      'title': 'Elon Musk’s New Twitter Superpower Is Dangerous',
+      'description': 'Musk has given himself an even bigger bullhorn to annoy users and spread disinformation on the platform.',
+      'url': 'https://www.wired.com/story/elon-musks-new-twitter-superpower-is-dangerous/',
+      'urlToImage': 'https://media.wired.com/photos/63ed1bce69cf98bf354042e5/191:100/w_1280,c_limit/twitter_biz_GettyImages-1243777594.jpg',
+      'publishedAt': '2023-02-15T18:00:00Z',
+      'content': 'Musk has also restricted the use of his Starlink satellite internet service in Ukraine and made statements that have been interpreted as\xa0supporting Russias claims to Ukrainian territory. Musks other … [+3460 chars]'
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'Mark Andrews',
+      'title': 'China’s XPeng G9 Could Be the Best Electric SUV Around',
+      'description': 'It’s a good value with a premium feel and lots of space. But can XPeng challenge more established automakers in the West?',
+      'url': 'https://www.wired.com/story/first-drive-xpeng-g9/',
+      'urlToImage': 'https://media.wired.com/photos/63dd96c9453ec92ac395630c/191:100/w_1280,c_limit/Xpeng-G9-Exterior-Featured-Gear.jpg',
+      'publishedAt': '2023-02-04T14:00:00Z',
+      'content': 'US investors looking to build an EV portfolio are not exactly spoilt for choice. Aside from Tesla, many companies havent produced cars, or if they have, theyre in such small numbers its difficult to … [+2110 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Nikki Main',
+      'title': 'Tesla Tweaks Onboard Cameras Following Allegations of Privacy Invasion',
+      'description': 'The Dutch safety watchdog decided on Wednesday that it had concluded its investigation into Tesla and wouldn’t issue a fine against the company for its vehicle’s security cameras. The Dutch Data Protection Authority (DPA) carried out an investigation over con…',
+      'url': 'https://gizmodo.com/tesla-security-cameras-privacy-evs-1850144793',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/80ea8eb0f6da4450b630afaaa89fb527.jpg',
+      'publishedAt': '2023-02-22T16:15:00Z',
+      'content': 'The Dutch safety watchdog decided on Wednesday that it had concluded its investigation into Tesla and wouldnt issue a fine against the company for its vehicles security cameras. The Dutch Data Protec… [+2023 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Kevin Hurler',
+      'title': 'Tesla Workers Fired In Alleged Retaliation Following Union Push',
+      'description': 'In the wake of a union push that began to pick up steam this week, Tesla Workers United working with the company’s Autopilot function at Tesla’s Buffalo Gigafactory are claiming that they were fired by the Elon Musk-owned company in retaliation for their unio…',
+      'url': 'https://gizmodo.com/tesla-elon-musk-union-autopilot-fired-1850121760',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ba18aa1b58356342691dba6b800d31a9.jpg',
+      'publishedAt': '2023-02-16T14:38:00Z',
+      'content': 'In the wake of a union push that began to pick up steam this week, Tesla Workers United working with the companys Autopilot function at Teslas Buffalo Gigafactory are claiming that they were fired by… [+1500 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Kyle Barr',
+      'title': "Judge Leaves Elon's $56 Billion Tesla Pay Package in Doubt",
+      'description': 'Billionaire Elon Musk may be clutching his pearls a little tighter as a Delaware judge left serious doubt whether his multi-billion Tesla pay package was done without Musk’s intervention. Read more...',
+      'url': 'https://gizmodo.com/elon-musk-tesla-trial-twitter-tornetta-1850141881',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5eae784e0cdb300fd81e4f213365871c.jpg',
+      'publishedAt': '2023-02-21T22:20:00Z',
+      'content': 'Billionaire Elon Musk may be clutching his pearls a little tighter as a Delaware judge left serious doubt whether his multi-billion Tesla pay package was done without Musks intervention. \r\nIn what wa… [+4469 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Kyle Barr',
+      'title': 'Leaked Document Suggests Hardly Anyone Bothered to Pay for Twitter Blue',
+      'description': 'Twitter-like apps don’t seem to be doing too hot as of late. Ever since billionaire Tesla CEO Elon Musk bought the blue bird app back in October, a wave of controversy has caused a massive decline in users. Worse still for Twitter and Musk, few seem willing t…',
+      'url': 'https://gizmodo.com/twitter-twitter-blue-elon-musk-mastodon-1850082165',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/512dee96a2bf7ea1291dbe1634b8e408.jpg',
+      'publishedAt': '2023-02-07T15:45:00Z',
+      'content': 'Twitter-like apps dont seem to be doing too hot as of late. Ever since billionaire Tesla CEO Elon Musk bought the blue bird app back in October, a wave of controversy has caused a massive decline in … [+4095 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Lauren Leffer',
+      'title': 'Amazon CEO Says Employees Must Return to Office Starting May 1',
+      'description': 'Work from home flexibility is coming to an end for Amazon employees. Though most of the company’s ~1.5 million full and part-time workers labor in warehouses or as delivery drivers—the e-commerce giant also employs hundreds of thousands of corporate and tech …',
+      'url': 'https://gizmodo.com/amazon-return-to-office-remote-work-big-tech-1850129574',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b39f5f5e3bc55c2dc1ae9ef24339c15.jpg',
+      'publishedAt': '2023-02-17T22:15:00Z',
+      'content': 'Work from home flexibility is coming to an end for Amazon employees. Though most of the companys ~1.5 million full and part-time workers labor in warehouses or as delivery driversthe e-commerce giant… [+3254 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Ramishah Maruf',
+      'title': "Super Bowl ad slams Tesla's 'Full Self-Driving' tech",
+      'description': 'Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.',
+      'url': 'https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230125081548-telsa-logo.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-12T17:43:25Z',
+      'content': 'Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.\r\nThe commercial, which will be aired in Washington,… [+4503 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Chris Isidore',
+      'title': 'Elon Musk donated $1.9 billion of Tesla stock to charity last year',
+      'description': 'Tesla CEO Elon Musk gave 11.5 million shares of his stake in the electric automaker to an undisclosed charity last year, shares worth about $1.9 billion at the time they were donated.',
+      'url': 'https://www.cnn.com/2023/02/15/investing/elon-musk-charity-donation/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230209153617-08-elon-musk-0124.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-15T16:34:07Z',
+      'content': 'Tesla CEO Elon Musk gave 11.5 million shares of his stake in the electric automaker to an undisclosed charity last year, shares worth about $1.9 billion at the time they were donated.\r\nThe donation w… [+3344 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Peter Valdes-Dapena',
+      'title': 'Ford halts production of electric F-150 due to possible battery issue',
+      'description': "Ford has halted production of the top-selling electric pickup in America, the F-150 Lightning, because of a possible battery problem, the automaker confirmed Tuesday. The potential issue was discovered during the company's pre-delivery vehicles inspections, F…",
+      'url': 'https://www.cnn.com/2023/02/14/business/ford-f-150-lightning-production-stop-battery/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230203162213-ford-electric-vehicle-center.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-14T20:07:27Z',
+      'content': 'Ford has halted production of the top-selling electric pickup in America, the F-150 Lightning, because of a possible battery problem, the automaker confirmed Tuesday. The potential issue was discover… [+1650 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Peter Valdes-Dapena',
+      'title': 'The 2024 Mercedes E-class will have TikTok built in',
+      'description': 'For those who have ever felt the urge to whip off a Tik Tok video from inside their car, Mercedes-Benz owners will be able to do that from inside the 2024 E-class without even having get out their phones.',
+      'url': 'https://www.cnn.com/2023/02/22/business/mercedes-e-class-zoom-tiktok/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230222110751-mercedes-benz-e-class-built-in-tiktok-display.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-22T18:58:08Z',
+      'content': 'For those who have ever felt the urge to whip off a Tik Tok video from inside their car, Mercedes-Benz owners will be able to do that from inside the 2024 E-class without even having get out their ph… [+2758 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Peter Valdes-Dapena',
+      'title': 'Ford to build battery plant in Michigan to tap into EV tax credits',
+      'description': 'Ford is investing $3.5 billion to build a battery plant in Michigan, a move that will help the automaker take advantage of more federal tax credits for electric vehicles.',
+      'url': 'https://www.cnn.com/2023/02/13/business/ford-lfp-battery-plant/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/221212115301-04-ford-f-150-lightning-review.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-13T19:15:39Z',
+      'content': 'Ford is investing $3.5 billion to build a battery plant in Michigan, a move that will help the automaker take advantage of more federal tax credits for electric vehicles.\r\nThe plant will operate as a… [+2647 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Peter Valdes-Dapena',
+      'title': 'Ford is getting back into Formula 1 racing to help sell EVs',
+      'description': "America's major automakers are getting back into Formula 1 racing. Following General Motors' recent announcement that it's applying, along with Andretti Global, to field a team in the prestigious racing series, Ford has now announced that it's getting back in…",
+      'url': 'https://www.cnn.com/2023/02/03/business/ford-f1/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230203110316-red-bull-racing-car-launch-event-0203.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-03T18:04:48Z',
+      'content': 'Americas major automakers are getting back into Formula 1 racing. Following General Motors recent announcement that its applying, along with Andretti Global, to field a team in the prestigious racing… [+2553 chars]'
+    },
+    {
+      'source': {
+        'id': 'cnn',
+        'name': 'CNN'
+      },
+      'author': 'Paul R. La Monica',
+      'title': "Did investors learn nothing from last year's market meltdown?",
+      'description': "Meme stock mania was supposed to be over, right? Guess what: It's not.",
+      'url': 'https://www.cnn.com/2023/02/05/investing/stocks-week-ahead/index.html',
+      'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/230202112337-01-bed-bath-beyond-0904-file.jpg?c=16x9&q=w_800,c_fill',
+      'publishedAt': '2023-02-05T12:25:50Z',
+      'content': 'A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up\xa0right here.\r\nMeme stock mania was supposed to be over, right? Guess what: Its not.… [+5865 chars]'
+    },
+    {
+      'source': {
+        'id': 'ars-technica',
+        'name': 'Ars Technica'
+      },
+      'author': 'Jonathan M. Gitlin',
+      'title': 'Autopilot had no involvement in fatal Texas Tesla crash, NTSB says',
+      'description': 'Alcohol and sedating antihistamines were to blame, according to crash investigator.',
+      'url': 'https://arstechnica.com/cars/2023/02/autopilot-had-no-involvment-in-fatal-texas-tesla-crash-ntsb-says/',
+      'urlToImage': 'https://cdn.arstechnica.net/wp-content/uploads/2020/06/GettyImages-1182783513-1-760x380.jpg',
+      'publishedAt': '2023-02-09T15:25:55Z',
+      'content': "23 with 0 posters participating\r\nTesla's Autopilot driver-assistance system was cleared by the nation's crash investigator of involvement in a fatal Model S crash. The National Transportation Safety … [+2344 chars]"
+    },
+    {
+      'source': {
+        'id': 'ars-technica',
+        'name': 'Ars Technica'
+      },
+      'author': 'Jonathan M. Gitlin',
+      'title': 'Hertz wanted 100,000 Teslas by the end of 2022; it has fewer than 50,000',
+      'description': "The rental company's new goal is for a quarter of its fleet to be electric by 2024.",
+      'url': 'https://arstechnica.com/cars/2023/02/hertz-falls-short-of-ambitious-tesla-2022-fleet-goal/',
+      'urlToImage': 'https://cdn.arstechnica.net/wp-content/uploads/2021/10/hertz-tesla-760x380.jpg',
+      'publishedAt': '2023-02-08T18:24:17Z',
+      'content': '17 with 0 posters participating\r\nIn 2021, after the pandemic destroyed its business and forced it into bankruptcy, Hertz unveiled a bold new plan to add hundreds of thousands of new electric vehicles… [+2095 chars]'
+    },
+    {
+      'source': {
+        'id': 'ars-technica',
+        'name': 'Ars Technica'
+      },
+      'author': 'Jonathan M. Gitlin',
+      'title': 'Redwood gets $2 billion commitment from DoE for recycled batteries',
+      'description': 'The company has already started producing copper-anode foil from recycled cells.',
+      'url': 'https://arstechnica.com/cars/2023/02/redwood-gets-2-billion-commitment-from-doe-for-recycled-batteries/',
+      'urlToImage': 'https://cdn.arstechnica.net/wp-content/uploads/2023/02/Module16-760x380.jpg',
+      'publishedAt': '2023-02-09T18:08:25Z',
+      'content': 'Enlarge/ Workers dismantle an EV battery module at Redwood Materials.\r\n17 with 0 posters participating\r\nBattery-recycling company Redwood Materials announced today that it has a conditional commitmen… [+2026 chars]'
+    },
+    {
+      'source': {
+        'id': 'ars-technica',
+        'name': 'Ars Technica'
+      },
+      'author': 'Jonathan M. Gitlin',
+      'title': 'An EV charger every 50 miles: Here’s the plan to keep them running',
+      'description': 'Uptime and "Buy American": We look at Biden\'s $7.5 billion charging plan.',
+      'url': 'https://arstechnica.com/cars/2023/02/heres-how-the-government-plans-to-make-ev-chargers-common-and-reliable/',
+      'urlToImage': 'https://cdn.arstechnica.net/wp-content/uploads/2023/02/ev-charger-reliability-760x380.jpg',
+      'publishedAt': '2023-02-24T19:12:52Z',
+      'content': '21 with \r\nThe last few years have, after much inaction, seen a flurry of new policies informed by the looming threat of climate change. Among these has been the National Electric Vehicle Infrastructu… [+4483 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': "Tesla can't build in northern Mexico if water is scarce, president says - Reuters",
+      'description': "Tesla can't build in northern Mexico if water is scarce, president says\xa0\xa0Reuters",
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9hdXRvcy10cmFuc3BvcnRhdGlvbi90ZXNsYS1jYW50LWJ1aWxkLW5vcnRoZXJuLW1leGljby1pZi13YXRlci1pcy1zY2FyY2UtcHJlc2lkZW50LXNheXMtMjAyMy0wMi0yNC_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-02-24T17:05:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Factbox: As Tesla prepares a Mexico plant, a look at auto plants in ... - Reuters',
+      'description': 'Factbox: As Tesla prepares a Mexico plant, a look at auto plants in ...\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLXByZXBhcmVzLW1leGljby1wbGFudC1sb29rLWF1dG8tcGxhbnRzLW1leGljby0yMDIzLTAzLTAxL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-01T00:37:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'U.S. NTSB cites speeding in fatal Tesla 2021 Florida crash - Reuters',
+      'description': 'U.S. NTSB cites speeding in fatal Tesla 2021 Florida crash\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3VzLW50c2ItY2l0ZXMtc3BlZWRpbmctZmF0YWwtdGVzbGEtMjAyMS1mbG9yaWRhLWNyYXNoLTIwMjMtMDMtMDEv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-01T19:56:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Tesla, Musk sued by shareholders over self-driving safety claims - Reuters',
+      'description': 'Tesla, Musk sued by shareholders over self-driving safety claims\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3Rlc2xhLW11c2stc3VlZC1ieS1zaGFyZWhvbGRlcnMtb3Zlci1zZWxmLWRyaXZpbmctc2FmZXR5LWNsYWltcy0yMDIzLTAyLTI3L9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-02-27T22:44:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Mexican president says Tesla will build major plant in northern city - Reuters',
+      'description': 'Mexican president says Tesla will build major plant in northern city\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9hdXRvcy10cmFuc3BvcnRhdGlvbi9tZXhpY2FuLXByZXNpZGVudC1zYXlzLXRlc2xhLXdpbGwtYnVpbGQtbWFqb3ItcGxhbnQtbm9ydGhlcm4tY2l0eS0yMDIzLTAyLTI4L9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-02-28T14:30:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Factbox: Tesla investor day gives a rare look at executive bench - Reuters',
+      'description': 'Factbox: Tesla investor day gives a rare look at executive bench\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLWludmVzdG9yLWRheS1naXZlcy1yYXJlLWxvb2stZXhlY3V0aXZlLWJlbmNoLTIwMjMtMDMtMDIv0gEA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-02T06:15:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': "Elon Musk's 'Master Plan' for Tesla fails to charge up investors - Reuters",
+      'description': "Elon Musk's 'Master Plan' for Tesla fails to charge up investors\xa0\xa0Reuters",
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL2Vsb24tbXVza3MtbWFzdGVyLXBsYW4tdGVzbGEtZmFpbHMtY2hhcmdlLXVwLWludmVzdG9ycy0yMDIzLTAzLTAyL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-02T11:50:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'S&P 500, Nasdaq futures slip as yields stay high, Tesla slides - Reuters',
+      'description': 'S&P 500, Nasdaq futures slip as yields stay high, Tesla slides\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvdXMvc3AtNTAwLW5hc2RhcS1mdXR1cmVzLXNsaXAteWllbGRzLXN0YXktaGlnaC10ZXNsYS1zbGlkZXMtMjAyMy0wMy0wMi_SAQA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-02T11:25:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Site of Tesla Mexico factory near double size of Texas plant, local ... - Reuters',
+      'description': 'Site of Tesla Mexico factory near double size of Texas plant, local ...\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9hdXRvcy10cmFuc3BvcnRhdGlvbi9zaXRlLXRlc2xhLW1leGljby1mYWN0b3J5LW5lYXItZG91YmxlLXNpemUtdGV4YXMtcGxhbnQtbG9jYWwtb2ZmaWNpYWwtc2F5cy0yMDIzLTAzLTAzL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-03T00:32:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': 'google-news',
+        'name': 'Google News'
+      },
+      'author': None,
+      'title': 'Tesla to get over $330 mln in tax abatement from Nevada - Reuters',
+      'description': 'Tesla to get over $330 mln in tax abatement from Nevada\xa0\xa0Reuters',
+      'url': 'https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdGVzbGEtZ2V0LW92ZXItMzMwLW1sbi10YXgtYWJhdGVtZW50LW5ldmFkYS0yMDIzLTAzLTAyL9IBAA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1',
+      'urlToImage': None,
+      'publishedAt': '2023-03-02T20:58:00Z',
+      'content': 'We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Reuters',
+      'title': 'Tesla recalls 362,000 vehicles over self-driving software flaws that risk crashes',
+      'description': 'Regulators say driver assistance system does not adequately adhere to traffic safety laws and can cause crashesTesla said it would recall 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after regulators said on Thursday the driver assi…',
+      'url': 'https://www.theguardian.com/technology/2023/feb/16/tesla-recall-full-self-driving-cars',
+      'urlToImage': 'https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_245_8000_4802/master/8000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c64a185bba9452f875c6b22589027503',
+      'publishedAt': '2023-02-16T19:41:11Z',
+      'content': 'Tesla said it would recall 362,000 US vehicles to update its Full Self-Driving (FSD) Beta software after regulators said on Thursday the driver assistance system did not adequately adhere to traffic … [+2726 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Kari Paul and agencies',
+      'title': 'Elon Musk overstated Tesla’s autopilot and self-driving tech, new lawsuit says',
+      'description': 'Shareholders sue the Twitter CEO again, alleging they were defrauded with false claims of the vehicles’ capabilitiesElon Musk is facing yet another lawsuit as shareholders of Tesla accuse the chief executive and his company of overstating the effectiveness an…',
+      'url': 'https://www.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot',
+      'urlToImage': 'https://i.guim.co.uk/img/media/507c6ba18333b1c786cb97ce07c6f6b26ee0d77a/1672_911_3263_1959/master/3263.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2171f7b68cb1083483c7cd631554058f',
+      'publishedAt': '2023-02-28T01:59:06Z',
+      'content': 'Elon Musk is facing yet another lawsuit as shareholders of Tesla accuse the chief executive and his company of overstating the effectiveness and safety of their electric vehicles autopilot and full s… [+2380 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Reuters',
+      'title': 'Elon Musk sets out vision to eliminate fossil fuels from world economy',
+      'description': 'Tesla chief executive kicks off company’s ‘investor day’ by outlining path to a ‘fully sustainable earth with abundance’Tesla chief executive Elon Musk kicked off his company’s “investor day” on Wednesday by describing a plan to eliminate fossil fuels from th…',
+      'url': 'https://www.theguardian.com/technology/2023/mar/01/elon-musk-tesla-fossil-fuels-economy',
+      'urlToImage': 'https://i.guim.co.uk/img/media/ab89c2a34e74ede1466c49c18da9bf51d2db49af/0_233_3493_2096/master/3493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2859019fa75cdcfccfd04bf89b5b05ca',
+      'publishedAt': '2023-03-01T22:10:19Z',
+      'content': 'Tesla chief executive Elon Musk kicked off his companys investor day on Wednesday by describing a plan to eliminate fossil fuels from the economy.\r\nMusk is expected to lay out a plan to make a smalle… [+2742 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Associated Press',
+      'title': '‘The rules apply to everyone’: Elon Musk appears in court on last day of Tesla trial',
+      'description': 'Contrasting portraits emerge in the closing arguments of class-action lawsuit against Musk for misleading investors with tweetsAs he sat stoically in court, Elon Musk on Friday was both vilified as a rich narcissist whose reckless behavior risks “anarchy” and…',
+      'url': 'https://www.theguardian.com/technology/2023/feb/03/elon-musk-tesla-investors-lawsuit-twitter',
+      'urlToImage': 'https://i.guim.co.uk/img/media/162840006bc1449fcff4deac071b951c6a0768f4/0_0_3003_1802/master/3003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f3be7a63c8fded383a2626abe2352b8',
+      'publishedAt': '2023-02-03T22:45:23Z',
+      'content': 'As he sat stoically in court, Elon Musk on Friday was both vilified as a rich narcissist whose reckless behavior risks anarchy and hailed as a visionary looking out for the little guy.\r\nThe contrasti… [+4459 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Ed Pilkington',
+      'title': 'Elon Musk backs Dilbert cartoonist Scott Adams following racist tirade',
+      'description': 'Tesla and Twitter chief tweets that ‘the media is racist’ after hundreds of newspapers drop Adams’s comic stripElon Musk has deployed his 130 million-follower Twitter bullhorn to come to the rescue of a beleaguered cartoonist dumped by hundreds of newspapers …',
+      'url': 'https://www.theguardian.com/technology/2023/feb/27/elon-musk-backs-dilbert-cartoonist-scott-adams-racist-controversy',
+      'urlToImage': 'https://i.guim.co.uk/img/media/c2f795efac6529df6bd1f092fb54df6cf6dc9170/0_136_4122_2473/master/4122.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5b606fec904597b8ae80c2a0a091d3e',
+      'publishedAt': '2023-02-27T14:58:30Z',
+      'content': 'Elon Musk has deployed his 130 million-follower Twitter bullhorn to come to the rescue of a beleaguered cartoonist dumped by hundreds of newspapers across America for having delivered a virulent raci… [+2817 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'James Tapper',
+      'title': 'Taking the Tesla to Truro? Warnings over lack of electric charging points',
+      'description': 'Holiday spots risk being overwhelmed this summer as many are not ready to deal with rise in electric vehiclesWhen the Nissan Leafs and Teslas flock to the seaside this summer, the arrival of their well-off drivers should be good news for British tourism.But t…',
+      'url': 'https://www.theguardian.com/environment/2023/feb/18/taking-tesla-to-truro-warnings-lack-of-electric-charging-points',
+      'urlToImage': 'https://i.guim.co.uk/img/media/4be566847055707660ed12e802918e3d036c6b41/0_206_4718_2830/master/4718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ecbc75822d5fa2962e0d7a28752698d7',
+      'publishedAt': '2023-02-18T15:00:41Z',
+      'content': 'When the Nissan Leafs and Teslas flock to the seaside this summer, the arrival of their well-off drivers should be good news for British tourism.\r\nBut tourism leaders have warned that places such as … [+5432 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Guardian Staff',
+      'title': 'Why we voted for Jeremy Corbyn – all 12 million of us | Letters',
+      'description': 'While Keir Starmer represents preservation of the status quo, his predecessor as leader of the Labour party represents changeSonia Sodha presumes that Labour’s activists and members are two separate entities (“Starmer was right to exile Corbyn. Labour has a d…',
+      'url': 'https://www.theguardian.com/commentisfree/2023/feb/26/why-we-voted-for-jeremy-corbyn-all-12-million-of-us-letters',
+      'urlToImage': 'https://i.guim.co.uk/img/media/d7ec22a3ac1669e1bf2456d3c58198a0eafd6037/0_152_4548_2729/master/4548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=985e285cebccf3c8fc7b5148caefd39f',
+      'publishedAt': '2023-02-26T06:00:14Z',
+      'content': 'Sonia Sodha presumes that Labours activists and members are two separate entities (Starmer was right to exile Corbyn. Labour has a duty to voters, not rebellious members, Comment). She ignores the fa… [+5744 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Kim Willsher in Paris',
+      'title': 'Emmanuel Macron criticised for ceremony giving Jeff Bezos Légion d’honneur',
+      'description': 'Discreet ceremony distinguishing the Amazon founder took place as scores of workers protested across France over pension changesEmmanuel Macron has carried out a discreet ceremony to give Amazon founder Jeff Bezos the Légion d’honneur at the Elysée Palace whi…',
+      'url': 'https://www.theguardian.com/world/2023/feb/23/emmanuel-macron-criticised-for-ceremony-giving-jeff-bezos-legion-dhonneur',
+      'urlToImage': 'https://i.guim.co.uk/img/media/25218a79ebe47bb72bf79ac6ac0985b4b4d7cfae/0_194_4092_2454/master/4092.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=faccaa76bb67d4054ae50f2f94514449',
+      'publishedAt': '2023-02-23T18:16:53Z',
+      'content': 'Emmanuel Macron has carried out a discreet ceremony to give Amazon founder Jeff Bezos the Légion dhonneur at the Elysée Palace while hundreds of thousands of workers protested across France over chan… [+2356 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Siva Vaidhyanathan',
+      'title': 'Elon Musk’s defense of Scott Adams shows why he is misguided and dangerous | Siva Vaidhyanathan',
+      'description': 'When Adams makes a fool of himself, he mainly just harms himself. But Musk has the power to harm othersEven a cursory exploration of race and racism around the world would yield the conclusion that there is nothing simple about it. Racial identity and race-ba…',
+      'url': 'https://www.theguardian.com/commentisfree/2023/mar/01/elon-musks-defense-of-scott-adams-shows-why-he-is-misguided-and-dangerous',
+      'urlToImage': 'https://i.guim.co.uk/img/media/6409ca29b429391fb655486be1360c44e1112bc7/0_60_3961_2377/master/3961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ded816cdb57f493aabfe43849531302a',
+      'publishedAt': '2023-03-01T11:21:31Z',
+      'content': 'Even a cursory exploration of race and racism around the world would yield the conclusion that there is nothing simple about it. Racial identity and race-based oppression emerge, morph and erode in d… [+7608 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Dan Milmo Global technology editor',
+      'title': 'Elon Musk fires additional 200 people at Twitter, report says',
+      'description': 'According to the New York Times, the executive behind paid-for premium service revamp is among those affectedElon Musk has fired another 200 staff at Twitter including the executive behind the revamp of its paid-for premium service, according to a report.The …',
+      'url': 'https://www.theguardian.com/technology/2023/feb/27/elon-musk-fires-additional-200-people-at-twitter-report-says',
+      'urlToImage': 'https://i.guim.co.uk/img/media/32d0849f045a9de29f3af3a12bd2d215d1dff389/0_0_1238_743/master/1238.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a4620b877256117374ed29581a767d1',
+      'publishedAt': '2023-02-27T13:15:57Z',
+      'content': 'Elon Musk has fired another 200 staff at Twitter including the executive behind the revamp of its paid-for premium service, according to a report.\r\nThe latest round of job cuts equates to about 10% o… [+3560 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Jasper Jolly',
+      'title': '‘It’s a long-term journey we’re on’: taking a ride towards self-driving cars',
+      'description': 'Nissan’s ServCity project shows how far autonomous vehicles have come and difficulties they still faceThe journey in a self-driving Nissan across Woolwich in south-east London begins smoothly enough: fitted with cameras and sensors, the electric car confident…',
+      'url': 'https://www.theguardian.com/technology/2023/feb/17/taking-ride-self-driving-car-nissan-servcity-autonomous-vehicles',
+      'urlToImage': 'https://i.guim.co.uk/img/media/2f66e683f5edcb67e86a0d9143ac0bd2e22252f3/122_0_1798_1080/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34068fc5a26a8f40fc61929ea44179d7',
+      'publishedAt': '2023-02-17T00:01:12Z',
+      'content': 'The journey in a self-driving Nissan across Woolwich in south-east London begins smoothly enough: fitted with cameras and sensors, the electric car confidently handles pedestrian crossings, vans cutt… [+4943 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Graeme Wearden',
+      'title': 'Five factors to explain FTSE 100’s record high despite recession',
+      'description': 'Economy and business backdrop is grim, but the energy boom and shareholder payouts have helpedLondon’s blue-chip share index, the FTSE 100, hit a new all-time high at over 8,000 points on Thursday.But why is the FTSE 100 so strong, when the UK economy is expe…',
+      'url': 'https://www.theguardian.com/business/2023/feb/16/five-factors-to-explain-ftse-100s-record-high-despite-recession',
+      'urlToImage': 'https://i.guim.co.uk/img/media/d365af1710fdaaaf1025a3d0533b3d633448f062/0_166_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=852b67af1e602f36d1363a248e3d3466',
+      'publishedAt': '2023-02-16T16:53:13Z',
+      'content': 'Londons blue-chip share index, the FTSE 100, hit a new all-time high at over 8,000 points on Thursday.\r\nBut why is the FTSE 100 so strong, when the UK economy is expected to fall into recession this … [+5170 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Nils Pratley',
+      'title': 'Slowing economic growth and a FTSE record high can coexist – here’s how',
+      'description': 'The blue-chip Footsie has closed at an all-time high while the UK’s economy is set to shrink<ul><li>Full story: FTSE 100 hits record high</li><li>PM’s message: workers’ doom loop, wealth’s boom loop</li></ul>The UK will be the only G7 country to see its econo…',
+      'url': 'https://www.theguardian.com/business/nils-pratley-on-finance/2023/feb/03/slowing-economic-growth-and-a-ftse-all-time-high-can-coexist-heres-how',
+      'urlToImage': 'https://i.guim.co.uk/img/media/fbc5a6c19fc6d0a1f767ecdabcffaf1797c0a5be/0_0_3091_1855/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fb490c15e6ac09372baa67ad5369bc66',
+      'publishedAt': '2023-02-03T17:53:50Z',
+      'content': 'The UK will be the only G7 country to see its economy shrink this year, the International Monetary Fund predicted this week.\r\nThe stock market, on the other hand, is doing just fine. Almost five year… [+4911 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The Guardian'
+      },
+      'author': 'Graeme Wearden',
+      'title': 'Still a ‘long way to go’ to control cost of living crisis, Bank of England governor warns – business live',
+      'description': 'Rolling coverage of the latest economic and financial news<ul><li>Bank of England raises UK interest rates to 4%</li><li>‘I’m really worried’: homeowners and would-be buyers on UK interest rates</li></ul>Bank of England chief economist Huw Pill appears to hav…',
+      'url': 'https://www.theguardian.com/business/live/2023/feb/03/cost-of-living-crisis-bank-of-england-governor-inflation-tech-us-jobs-business-live',
+      'urlToImage': 'https://i.guim.co.uk/img/media/d779804a0062928b0d564c813facd2419a5069fa/0_367_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b98d998ec80fd2c5c1c3c34915ca913f',
+      'publishedAt': '2023-02-03T07:55:24Z',
+      'content': 'European stock markets have opened a little lower, as last nights disappointing results from Amazon, Apple and Alphabet weigh on the mood.\r\nThe UKs FTSE 100 has dipped by 8 points, or 0.1%, while the… [+5805 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'CNET'
+      },
+      'author': 'Zachary McAuliffe',
+      'title': 'Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue - CNET',
+      'description': 'The software may cause the vehicles to crash.',
+      'url': 'https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/',
+      'urlToImage': 'https://www.cnet.com/a/img/resize/5ad6fee523c3400aaa56df47874d7ba1bd69a79a/hub/2020/09/25/26614e94-c7b0-431d-bbad-aa5f53bc242c/tesla-model-y.jpg?auto=webp&fit=crop&height=630&width=1200',
+      'publishedAt': '2023-02-16T18:22:37Z',
+      'content': 'Tesla recalled over 362,000 vehicles because the Full Self-Driving software may cause a crash, the National Highway Traffic Safety Administration announced Thursday.\xa0\r\nThe recall affects certain 2016… [+427 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gkay@insider.com (Grace Kay)',
+      'title': "Tesla cofounder's advice to EV startups: Don't try to be Tesla",
+      'description': "Tesla's cofounder and first CEO, Martin Eberhard, thinks too many car companies try to directly compete with Tesla, and it's a recipe for failure.",
+      'url': 'https://www.businessinsider.com/tesla-cofounder-ev-startups-competition-advice-dont-try-be-tesla-2023-2',
+      'urlToImage': 'https://i.insider.com/63d92caf0a08ae0018a627c6?width=1200&format=jpeg',
+      'publishedAt': '2023-02-19T11:55:00Z',
+      'content': 'Tesla cofounder Martin Eberhard thinks too many car companies are trying to beat Tesla at its own game and that it\'s a recipe for failure.\r\n"My advice to anybody who wants to get into the EV space no… [+3445 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'tlevin@insider.com (Tim Levin)',
+      'title': 'Tesla owners reveal the best and worst features of their cars, and what they really think of Elon Musk',
+      'description': 'More than a dozen Tesla owners revealed the things they like and dislike most about their cars and their thoughts on the divisive CEO Elon Musk.',
+      'url': 'https://www.businessinsider.com/tesla-owners-reveal-cars-pros-cons-features-elon-musk-2023-2',
+      'urlToImage': 'https://i.insider.com/63e6627a27e5db0018ef1747?width=1200&format=jpeg',
+      'publishedAt': '2023-02-11T11:55:00Z',
+      'content': "As electric cars zip and zoom into the mainstream, maybe you're considering buying one. Perhaps you're looking at a car from Tesla, the most popular electric-vehicle brand on the market.\xa0\r\nWe talked … [+6121 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'rhogg@insider.com (Ryan Hogg)',
+      'title': 'Tesla does a flip-flop by lifting Model Y car prices in China just a month after cutting them',
+      'description': 'The starting price of the rear-wheel Model Y rose by 0.8%, a modest increase after massive cuts last month which caused a surge in demand.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-model-y-raise-car-price-china-reverse-strategy-stock-2023-2',
+      'urlToImage': 'https://i.insider.com/63923e758580f70019f812c3?width=1200&format=jpeg',
+      'publishedAt': '2023-02-10T11:30:16Z',
+      'content': 'Tesla has raised the starting price of its Model Y crossovers in China, just weeks after bringing in huge cuts that helped stoke demand among buyers in the reopening country.\r\nThe electric-vehicle ma… [+1076 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gkay@insider.com (Grace Kay)',
+      'title': "Ex-Tesla CEO says the company's culture might be 'nicer' if he had stuck around: 'I'm not into random firings'",
+      'description': 'Today, Elon Musk is known for his propensity for firing workers at random and even for bursts of rage, according to reports.',
+      'url': 'https://www.businessinsider.com/tesla-cofounder-martin-eberhard-on-company-culture-elon-musk-firings-2023-2',
+      'urlToImage': 'https://i.insider.com/63cab5dceee94d001a791aab?width=1200&format=jpeg',
+      'publishedAt': '2023-02-19T11:55:00Z',
+      'content': 'Martin Eberhard, one of Tesla\'s original founders, said the carmaker would look different today if he was still at its helm specifically, there would be fewer "random firings."\r\n"I\'m a believer of tr… [+2610 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bevans@insider.com (Brian Evans)',
+      'title': "ChatGPT has captured investors' imagination, but Tesla is among the 'hidden gems' of artificial intelligence, Cathie Wood says",
+      'description': '"We believe that the hidden gems that will benefit the most from artificial intelligence are those companies with proprietary datasets."',
+      'url': 'https://markets.businessinsider.com/news/stocks/chatgpt-openai-artificial-intelligence-stocks-tesla-exact-sciences-cathie-wood-2023-2',
+      'urlToImage': 'https://i.insider.com/639b244027c0a700193e4098?width=1200&format=jpeg',
+      'publishedAt': '2023-02-05T13:30:00Z',
+      'content': "The rise of ChatGPT has spurred excitement on Wall Street, but don't overlook other innovators in artificial intelligence, said Ark Invest's Cathie Wood.\xa0\r\nIn an interview with Yahoo Finance Live on … [+2102 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'psyme@insider.com (Pete Syme)',
+      'title': "Elon Musk said he fears a single world government could lead to the 'collapse' of civilization while speaking at a World Government Summit",
+      'description': '"If we are too much of a single civilization, the whole thing may collapse," Elon Musk said at the World Government Summit on Wednesday.',
+      'url': 'https://www.businessinsider.com/elon-musk-says-world-government-could-civilization-collapse-2023-2',
+      'urlToImage': 'https://i.insider.com/63ecdaaecaaa970019853e91?width=1200&format=jpeg',
+      'publishedAt': '2023-02-15T15:01:17Z',
+      'content': 'In an appearance at the World Government Summit on Wednesday, Elon Musk warned against the dangers of a singular global government.\r\n"Seemed like the right venue," Musk later tweeted in reply to a vi… [+2802 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bgriffiths@insider.com (Brent D. Griffiths)',
+      'title': "Ex-Twitter employee tells AOC the platform changed its content moderation policy to accommodate Trump's racist 'go back' tweets",
+      'description': '"So much for bias against right-wing on Twitter," Ocasio-Cortez said when told of Twitter\'s actions at the time.',
+      'url': 'https://www.businessinsider.com/twitter-employee-testifies-aoc-trump-go-back-tweet-2023-2',
+      'urlToImage': 'https://i.insider.com/62a626876053710019e9dfca?width=1200&format=jpeg',
+      'publishedAt': '2023-02-08T19:58:11Z',
+      'content': 'Democratic Rep. Alexandria Ocasio-Cortez on Wednesday lit into complaints about anti-conservative bias on Twitter after a former Twitter employee testified that the social network changed its policie… [+2724 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Slashdot.org'
+      },
+      'author': 'BeauHD',
+      'title': 'Tesla Plans Gigafactory In First Mexico Investment',
+      'description': 'Tesla announced plans to open a gigafactory in Mexico as it pushes to expand its global output. Reuters reports: Mexico on Tuesday said Tesla had chosen the northern border state of Nuevo Leon for a new factory worth more than $5 billion, calling it the "the …',
+      'url': 'https://tech.slashdot.org/story/23/03/02/2215213/tesla-plans-gigafactory-in-first-mexico-investment',
+      'urlToImage': 'https://a.fsdn.com/sd/topics/business_64.png',
+      'publishedAt': '2023-03-03T00:02:00Z',
+      'content': 'Mexico on Tuesday said Tesla had chosen the northern border state of Nuevo Leon for a new factory worth more than $5 billion, calling it the "the biggest electric vehicle plant in the world." Tesla w… [+733 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Slashdot.org'
+      },
+      'author': 'BeauHD',
+      'title': 'Tesla Announces New Engineering HQ In California',
+      'description': 'Slashdot reader Phact shares a report from The Hill: Elon Musk announced during a joint press conference with California Gov. Gavin Newsom that Tesla would be returning its global engineering headquarters to California, two years after a dramatic exit that sa…',
+      'url': 'https://slashdot.org/story/23/02/24/0652225/tesla-announces-new-engineering-hq-in-california',
+      'urlToImage': 'https://a.fsdn.com/sd/topics/business_64.png',
+      'publishedAt': '2023-02-24T10:00:00Z',
+      'content': 'Elon Musk announced during a joint press conference with California Gov. Gavin Newsom that Tesla would be returning its global engineering headquarters to California, two years after a dramatic exit … [+1028 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Slashdot.org'
+      },
+      'author': 'EditorDavid',
+      'title': 'China Is Exporting Its Obsession with Tiny Electric Vehicles',
+      'description': "Long-time Slashdot reader destinyland shared this report about the boxy little Wuling:\n\n\nPriced at around $5,500 and famously outselling Tesla in China, it's a tiny, comically square car, produced in joint partnership with General Motors and SAIC. The micro E…",
+      'url': 'https://tech.slashdot.org/story/23/02/25/108222/china-is-exporting-its-obsession-with-tiny-electric-vehicles',
+      'urlToImage': 'https://a.fsdn.com/sd/topics/china_64.png',
+      'publishedAt': '2023-02-25T18:34:00Z',
+      'content': "Priced at around $5,500 and famously outselling Tesla in China, it's a tiny, comically square car, produced in joint partnership with General Motors and SAIC. The micro EV has been fodder for article… [+1162 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Slashdot.org'
+      },
+      'author': 'EditorDavid',
+      'title': 'Electric Vehicles Could Match Gas-Powered Cars on Price This Year',
+      'description': 'This year in America some electric cars could become "as cheap as or cheaper than cars with internal combustion engines," reports the New York Times, citing figures from the International Council on Clean Transportation, a research and advocacy group.\nPrices …',
+      'url': 'https://hardware.slashdot.org/story/23/02/12/2244216/electric-vehicles-could-match-gas-powered-cars-on-price-this-year',
+      'urlToImage': 'https://a.fsdn.com/sd/topics/power_64.png',
+      'publishedAt': '2023-02-12T22:46:00Z',
+      'content': 'This year in America some electric cars could become "as cheap as or cheaper than cars with internal combustion engines," reports the New York Times, citing figures from the International Council on … [+2403 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'hchowdhury@insider.com (Hasan Chowdhury)',
+      'title': "Elon Musk's new Master Plan for Tesla should've introduced cheap EVs. Instead, we got a whole lot of nothing.",
+      'description': 'Tesla CEO Elon Musk unveiled the next phase of his Master Plan in Texas, but a widely anticipated reveal of a cheap Tesla remained elusive.',
+      'url': 'https://www.businessinsider.com/tesla-new-master-plan-elon-musk-everything-except-cheap-evs-2023-3',
+      'urlToImage': 'https://i.insider.com/6400e723994ec3001894144a?width=1200&format=jpeg',
+      'publishedAt': '2023-03-02T21:12:58Z',
+      'content': 'Tesla fans have had a rollercoaster few months, so they can be forgiven for having wanted CEO Elon Musk to take a break from Twitter posting to update them on a long-anticipated, cheap EV model.\r\nIns… [+4034 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gkay@insider.com (Grace Kay)',
+      'title': "See the second car Tesla made: an orange-striped Roadster with 'Mr. Tesla' plates that may be worth more than $200,000",
+      'description': 'Tesla cofounder Martin Eberhard, who was ousted over a decade ago, still owns three Teslas and has the license plate "Mr. Tesla."',
+      'url': 'https://www.businessinsider.com/second-tesla-roadster-ever-made-custom-colors-photos-martin-eberhard-2023-2',
+      'urlToImage': 'https://i.insider.com/63d92b547db5600019bac896?width=1200&format=jpeg',
+      'publishedAt': '2023-02-20T11:35:00Z',
+      'content': 'Tesla\'s cofounder and its first CEO, Martin Eberhard, who left the carmaker over a decade ago, owns three Teslas, including the second car the company ever made.\r\n"I\'ve been driving my Roadster conti… [+4490 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bgiacobone@insider.com (Bianca Giacobone)',
+      'title': "Ferrari CEO says Tesla's success was a 'wake up call' for the auto industry",
+      'description': 'Benedetto Vigna told Bloomberg he credits Tesla for speeding up EV production, adding Ferrari is an "emotional" car, and Tesla a "functional" one.',
+      'url': 'https://www.businessinsider.com/ferrari-ceo-tesla-wake-up-call-electric-cars-elon-musk-2023-2',
+      'urlToImage': 'https://i.insider.com/63ea94224102a900184c9486?width=1200&format=jpeg',
+      'publishedAt': '2023-02-13T20:14:18Z',
+      'content': "Controversies aside, no one can say that Tesla's CEO Elon Musk doesn't have a talent for getting things moving. And Tesla certainly got things moving for the electrification of the automotive industr… [+1586 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gkay@insider.com (Grace Kay)',
+      'title': 'Ousted Tesla cofounder Martin Eberhard sounds off on Elon Musk, how the company has changed, and the EV wars',
+      'description': 'While Elon Musk is sometimes referred to as the founder of Tesla, Martin Eberhard cofounded Tesla in 2003 with his friend Marc Tarpenning.',
+      'url': 'https://www.businessinsider.com/tesla-cofounder-martin-eberhard-interview-history-elon-musk-ev-market-2023-2',
+      'urlToImage': 'https://i.insider.com/63cf08820a375c0018fa85a3?width=1200&format=jpeg',
+      'publishedAt': '2023-02-18T11:30:00Z',
+      'content': "While Elon Musk is sometimes referred to as the founder of Tesla, his part in the carmaker's history is more complicated.\r\nMartin Eberhard cofounded Tesla in 2003 with his longtime friend Marc Tarpen… [+14886 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'psyme@insider.com (Pete Syme)',
+      'title': "Elon Musk said Tesla's AI could 'really crush' Google's reCAPTCHA robot test, just hours before news of a recall involving 363,000 self-driving cars",
+      'description': 'Tesla recalled nearly 363,000 cars after the NHTSA warned it could act "unsafe around intersections."',
+      'url': 'https://www.businessinsider.com/elon-musk-tesla-ai-recall-could-really-crush-google-recaptcha-2023-2',
+      'urlToImage': 'https://i.insider.com/63ee13a1dd6fcf00194a9fed?width=1200&format=jpeg',
+      'publishedAt': '2023-02-17T11:43:17Z',
+      'content': "Elon Musk said the artificial intelligence in a Tesla could easily pass Google's reCAPTCHA tests which are designed to filter out robots from humans hours before reports that nearly 363,000 Teslas co… [+2568 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bevans@insider.com (Brian Evans)',
+      'title': "Tesla activist investor says he's a huge supporter of Elon Musk but warns his lifestyle is unsustainable",
+      'description': '"If we\'re going to get to Mars and we\'re going to do that, we need Elon to make it another 20 years at least," Ross Gerber told Yahoo Finance.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-activist-investor-ross-gerber-elon-musk-lifestyle-twitter-takeover-2023-2',
+      'urlToImage': 'https://i.insider.com/63ee5971f24f340018649b55?width=1200&format=jpeg',
+      'publishedAt': '2023-02-16T16:42:03Z',
+      'content': "Tesla CEO Elon Musk's lifestyle is unsustainable, according to activist investor Ross Gerber.\xa0\r\nHe told Yahoo Finance in a Wednesday interview that while he remained supportive of Musk and his leader… [+1545 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'psyme@insider.com (Pete Syme)',
+      'title': "Lawyer dubs Elon Musk a 'part-time CEO' distracted by Twitter and SpaceX in Tesla shareholder lawsuit over $56 billion pay package, report says",
+      'description': "The final comments in a lawsuit over Elon Musk's $56 billion Tesla pay package were made on Tuesday.",
+      'url': 'https://www.businessinsider.com/elon-musk-part-time-ceo-distracted-by-twitter-spacex-shareholders-2023-2',
+      'urlToImage': 'https://i.insider.com/635be0103e1cce00181b716a?width=1200&format=jpeg',
+      'publishedAt': '2023-02-23T10:47:35Z',
+      'content': 'A lawyer for Tesla shareholders called Elon Musk a "part-time CEO," who is too distracted by his work at Twitter and SpaceX to properly manage the electric vehicle company, according to a report from… [+2444 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'mfox@businessinsider.com (Matthew Fox)',
+      'title': "Tesla is singlehandedly driving the highest retail investment into the stock market since 2020 as traders await Elon Musk's master plan at the upcoming investor day",
+      'description': '"Tesla continues to draw unprecedented retail flows" ahead of Elon Musk\'s Master Plan 3 presentation next month, Vanda Research said.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-rebound-fomo-trade-investors-await-musk-master-plan-2023-2',
+      'urlToImage': 'https://i.insider.com/63641f14ff27460018ed81c0?width=1200&format=jpeg',
+      'publishedAt': '2023-02-09T16:04:34Z',
+      'content': 'The stock market has seen a resurgence in retail trading so far this year as a broad rally helps reverse some of the brutal losses from 2022.\r\nBut much of the rebound in activity, which has hit level… [+2070 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'mfox@businessinsider.com (Matthew Fox)',
+      'title': 'Traders have lost $7.6 billion betting against Tesla stock over the past month as the stock has surged',
+      'description': 'The swift one-month surge in Tesla stock has wiped out about half of the gains short-sellers made last year betting against the company.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-short-sellers-lost-7-billion-betting-against-musk-2023-2',
+      'urlToImage': 'https://i.insider.com/63ea91254102a900184c937a?width=1200&format=jpeg',
+      'publishedAt': '2023-02-13T20:19:53Z',
+      'content': "Investors betting against Tesla stock have taken a beating so far in 2023 as the stock has soared as much as 110% from its January 6 low.\r\nThe losses for short-sellers betting against Elon Musk's ele… [+1553 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bevans@insider.com (Brian Evans)',
+      'title': 'Tesla investor looking to rein in Elon Musk says he has support from 3rd-largest individual shareholder for a board seat',
+      'description': "Ross Gerber told Bloomberg that he has support from Tesla's third-largest shareholder, Leo KoGuan, in pursuit of a board seat.",
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-elon-musk-ross-gerber-leo-koguan-activist-investor-2023-2',
+      'urlToImage': 'https://i.insider.com/63cc4233b9a04b0019ed9694?width=1200&format=jpeg',
+      'publishedAt': '2023-02-13T15:38:59Z',
+      'content': 'Tesla activist investor Ross Gerber said he has support from shareholder Leo KoGuan in a planned run for a board seat to rein in CEO Elon Musk.\xa0\r\nGerber first announced intentions of pursuing a board… [+1582 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'kduffy@insider.com (Kate Duffy)',
+      'title': 'Super Bowl attack ad shows a Tesla slamming into 2 child-size mannequins and a stroller',
+      'description': "The ad was created by The Dawn Project, an organization that has long attacked the integrity of Tesla's self-driving software.",
+      'url': 'https://www.businessinsider.com/tesla-hits-child-sized-mannequins-stroller-super-bowl-attack-ad-2023-2',
+      'urlToImage': 'https://i.insider.com/63ea0fe64102a900184c7cd5?width=1200&format=jpeg',
+      'publishedAt': '2023-02-13T13:23:05Z',
+      'content': "An advertisement that aired during Sunday's Super Bowl showed a Tesla slamming into two child-sized mannequins and hitting a stroller.\r\nThe 30-second ad was created by The Dawn Project, an organizati… [+2740 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gkay@insider.com (Grace Kay)',
+      'title': "Tesla cofounder calls Autopilot and FSD software 'crap' that could risk the carmaker's future",
+      'description': "Elon Musk has made autonomous driving a top priority at Tesla. One of the carmaker's original founders doesn't approve.",
+      'url': 'https://www.businessinsider.com/tesla-fsd-full-self-driving-autopilot-risk-criticism-martin-eberhard-2023-2',
+      'urlToImage': 'https://i.insider.com/63c99a90eee94d001a78ffdc?width=1200&format=jpeg',
+      'publishedAt': '2023-02-18T11:35:00Z',
+      'content': 'Elon Musk has made autonomous driving a top priority at Tesla, but one of the carmaker\'s original founders doesn\'t approve.\r\n"In my opinion, we need to get out of the habit of thinking about all of t… [+3740 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gglover@insider.com (George Glover)',
+      'title': 'Elon Musk is working at Tesla for free after receiving his final stock options last month',
+      'description': "Don't feel too sorry for Musk. The Tesla CEO made an estimated $56 billion from his 2018 pay package.",
+      'url': 'https://markets.businessinsider.com/news/stocks/how-much-is-elon-musk-paid-tesla-working-for-free-2023-2',
+      'urlToImage': 'https://i.insider.com/63f5ec755ca81e001855ab41?width=1200&format=jpeg',
+      'publishedAt': '2023-02-22T11:18:56Z',
+      'content': "Tesla CEO Elon Musk is currently working for free.\r\nThe world's second-richest person hasn't taken a cash salary since 2019 \xa0when he was paid just $23,760 to comply with the minimum wage laws in Cali… [+1611 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'astjohn@insider.com (Alexa St. John)',
+      'title': "Tesla may be losing EV market share — but it's still winning over converts from other brands",
+      'description': 'Automaker inventory challenges drew some car-buyers to buy from Tesla last year, but that might not last.',
+      'url': 'https://www.businessinsider.com/tesla-market-share-car-buyers-brand-loyalty-advantages-automakers-2023-2',
+      'urlToImage': 'https://i.insider.com/63fce638b8468e001896ab48?width=1200&format=jpeg',
+      'publishedAt': '2023-02-28T10:00:00Z',
+      'content': 'Tesla has been able to keep a loyal fanbase, but some say Elon Musk might not keep his lead forever.\r\nTesla trumped all other automakers in terms of overall brand loyalty (beating out Ford) and most … [+2656 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'fdemott@insider.com (Filip De Mott)',
+      'title': "Tesla's investor day showed it is 'one generation ahead' of rival automakers in EV race, former Ford CEO says",
+      'description': '"Tesla still has the leg-up on the competition, and I think they demonstrated that yesterday," Mark Fields told CNBC.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-investor-day-elon-musk-master-plan-3-ford-2023-3',
+      'urlToImage': 'https://i.insider.com/6400ea1f934c2c00180263bf?width=1200&format=jpeg',
+      'publishedAt': '2023-03-02T20:29:57Z',
+      'content': "While Tesla stock sold off after its investor day failed to provide details on new EV models, former Ford CEO Mark Fields heard enough to remain confident in the company's future.\r\nIn particular, Wed… [+1681 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'tlevin@insider.com (Tim Levin)',
+      'title': 'These are the 10 best cars for every budget from Toyota, Ford, and Tesla',
+      'description': "The Toyota Corolla Cross, Tesla Model 3, and Ford Maverick are some of Consumer Reports' 10 Top Picks for 2023.",
+      'url': 'https://www.businessinsider.com/best-new-cars-consumer-reports-toyota-ford-nissan-kia-subaru-2023-2',
+      'urlToImage': 'https://i.insider.com/63ee4f2569b9cb001880af9f?width=1200&format=jpeg',
+      'publishedAt': '2023-02-17T10:00:00Z',
+      'content': "The car market is a veritable buffet of different makes, models, price points, and body styles. But which vehicles are the equivalent of prime rib and which are more like last week's macaroni salad?\r… [+2752 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'dsiu@insider.com (Diamond Naga Siu)',
+      'title': "Apple and Meta's cold war over privacy is coming to a head",
+      'description': "In today's edition: Microsoft's Bing has some shocking responses, Tesla issues a massive car recall, and more headlines.",
+      'url': 'https://www.businessinsider.com/google-facebook-apple-america-homes-microsoft-ai-privacy-meta-2023-2',
+      'urlToImage': 'https://i.insider.com/63ebc9337518920018f34575?width=1200&format=jpeg',
+      'publishedAt': '2023-02-17T11:45:00Z',
+      'content': "Do you live with your parents, reader? I don't. I'm Diamond Naga Siu, and maybe I've made all the wrong life decisions.\r\nThis 25-year-old told Insider about her lavish lifestyle all thanks to not hav… [+4317 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'htan@insider.com (Huileng Tan)',
+      'title': "Tesla denies Workers United's accusations, saying it laid off 27 workers in New York for 'poor performance' before it learned of unionization efforts",
+      'description': 'The union filed a complaint with the NLRB stating that Tesla unlawfully terminated some staff in retaliation for union activity.',
+      'url': 'https://www.businessinsider.com/tesla-laid-off-new-york-workers-poor-performance-union-campaign-2023-2',
+      'urlToImage': 'https://i.insider.com/63eee87af24f34001864ba65?width=1200&format=jpeg',
+      'publishedAt': '2023-02-17T05:48:58Z',
+      'content': 'Tesla denied an allegation that it laid off dozens of staff at its plant in Buffalo, New York in an attempt to discourage unionizing, stating that the employees were laid off due to poor performance … [+2643 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'jsor@insider.com (Jennifer Sor)',
+      'title': "Tesla will be the winner of the electric vehicle market by leading the charge on AI and energy, Ark Invest's Cathie Wood says",
+      'description': 'Wood predicted Tesla stock would jump to $1,500 a share in five years, implying a 650% increase from current levels.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-outlook-ev-artificial-intelligence-cathie-wood-ark-invest-2023-2',
+      'urlToImage': 'https://i.insider.com/609d2deb070a690018af5004?width=1200&format=jpeg',
+      'publishedAt': '2023-02-23T16:44:08Z',
+      'content': "Tesla is going to emerge as the winner of the electric vehicle market, as the company is leading the industry in key factors that distinguish it from its competitors, according to Ark Invest's Cathie… [+1694 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'kduffy@insider.com (Kate Duffy,Grace Kay)',
+      'title': 'Tesla reportedly laid off dozens of workers after union announcement, NLRB complaint alleges',
+      'description': "It's not the first time that Tesla has been accused of attempting to discourage union efforts at one of its facilities.",
+      'url': 'https://www.businessinsider.com/union-accuses-tesla-illegally-firing-employees-workers-united-campaign-report-2023-2',
+      'urlToImage': 'https://i.insider.com/63ee4df7f24f34001864972a?width=1200&format=jpeg',
+      'publishedAt': '2023-02-16T16:00:26Z',
+      'content': 'Tesla laid off dozens of staff at its plant in Buffalo, New York after workers announced plans to unionize, the Workers United union said in a complaint that Bloomberg first reported on Thursday.\r\nTh… [+2573 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bnolan@insider.com (Beatrice Nolan)',
+      'title': "Elon Musk's new Silicon Valley engineering headquarters will focus on AI, report says",
+      'description': 'On Wednesday, Elon Musk said Tesla plans to expand its engineering hub in Palo Alto, California despite being based in Austin, Texas.',
+      'url': 'https://www.businessinsider.com/elon-musk-expanded-engineering-hq-will-focus-on-ai-report-2023-2',
+      'urlToImage': 'https://i.insider.com/63f4a3035ca81e001855837b?width=1200&format=jpeg',
+      'publishedAt': '2023-02-23T12:30:44Z',
+      'content': "Elon Musk's new California engineering headquarters will have a particular focus on artificial intelligence, CNBC reported.\r\nOn Wednesday, Elon Musk announced that Tesla was expanding its engineering… [+1312 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'ztayeb@businessinsider.com (Zahra Tayeb)',
+      'title': "America's 'Big Three' passive funds now own more of Tesla than CEO Elon Musk does, report says",
+      'description': 'Index fund leaders BlackRock, Vanguard and State Street hold a combined 13.6% stake in Tesla, while Elon Musk has about 13% of the EV maker he leads.',
+      'url': 'https://markets.businessinsider.com/news/stocks/elon-musk-tesla-owns-less-blackrock-vanguard-big-passive-funds-2023-2',
+      'urlToImage': 'https://i.insider.com/633451589ac0610018e805c0?width=1200&format=jpeg',
+      'publishedAt': '2023-02-20T13:12:54Z',
+      'content': 'Elon Musk now owns less stock in Tesla, the EV maker he founded, than America\'s "Big Three" passive-investing funds have, the Financial Times has reported.\r\nThe combined holdings of the index fund in… [+1412 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'rhogg@insider.com (Ryan Hogg)',
+      'title': "Tesla faces a $7.5 billion ultimatum: Open up its charging network to rivals or be locked out of Biden's EV subsidies, report says",
+      'description': "Elon Musk's Tesla has to open its network up to the plugs used by other charging companies to get in on $7.5 billion in subsidies planned by Biden.",
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-needs-to-open-charging-network-to-enjoy-75bn-subsidy-report-2023-2',
+      'urlToImage': 'https://i.insider.com/636c6abf951bdc00182d7060?width=1200&format=jpeg',
+      'publishedAt': '2023-02-13T11:41:10Z',
+      'content': "Tesla could find itself locked out of $7.5 billion in Biden administration subsidies if it fails to open its EV charging network up to competitors, according to a Reuters report.\r\nThe automaker's Sup… [+2089 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bevans@insider.com (Brian Evans)',
+      'title': 'Tesla EVs are the cheapest they have ever been relative to the overall US auto market',
+      'description': 'Today, the lower-end Tesla Model 3 now starts at $42,990, while the average cost of a new vehicle is nearly $48,000, according to Bloomberg.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-price-model-3-cheapest-ever-us-auto-market-outlook-2023-2',
+      'urlToImage': 'https://i.insider.com/62a9ed766053710019ea51a0?width=1200&format=jpeg',
+      'publishedAt': '2023-02-21T20:48:00Z',
+      'content': 'Some of the most popular Tesla models are now being sold for less than the average cost of a new car in the US, according to a report from Bloomberg.\xa0\r\nThe Tesla Model 3 is now selling at nearly a $5… [+1252 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'kduffy@insider.com (Kate Duffy)',
+      'title': "You'll be able to plug in any EV at some Tesla Superchargers by the end of 2024",
+      'description': "Elon Musk's Tesla has committed to opening up at least 7,500 Superchargers in the US to vehicles made by other manufacturers for the first time.",
+      'url': 'https://www.businessinsider.com/white-house-tesla-open-chargers-all-electric-vehicles-biden-musk-2023-2',
+      'urlToImage': 'https://i.insider.com/63eccf31eeb52e0018869491?width=1200&format=jpeg',
+      'publishedAt': '2023-02-15T13:15:00Z',
+      'content': "Tesla will make at least 7,500 chargers available to all electric vehicles by the end of 2024, the Biden administration said on Wednesday.\r\nFor the first time, Elon Musk's car manufacturer has commit… [+1388 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'insider@insider.com (Carla Mozée)',
+      'title': "Tesla stock 'gets boring' as the market drills into the EV's company metrics and treats it more like a traditional automaker, investment research firm says",
+      'description': '"Wall Street is starting to treat the EV pioneer as just another auto company," said Bespoke as it examines Tesla\'s stock moves with other car makers.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-investor-day-ev-autos-ford-gm-toyota-boring-2023-3',
+      'urlToImage': 'https://i.insider.com/6204e2253b86990018b2ab77?width=1200&format=jpeg',
+      'publishedAt': '2023-03-02T18:46:17Z',
+      'content': '"Tesla Gets Boring."\xa0\r\nThat was the determination of Bespoke Investment Group on Thursday as Wall Street analysts drilled down on the mechanics of Tesla\'s $10 trillion plan to foster global sustainab… [+1733 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'gglover@insider.com (George Glover)',
+      'title': 'Fans may think Elon Musk is unbreakable but Tesla needs to find a successor in case his health fails, an activist investor in the carmaker says',
+      'description': "Ross Gerber is running for a seat on Tesla's board. He told Insider why finding Musk's potential successor is a key part of his campaign.",
+      'url': 'https://markets.businessinsider.com/news/stocks/elon-musk-tesla-stock-price-shareholders-activist-investor-ross-gerber-2023-2',
+      'urlToImage': 'https://i.insider.com/63f4a3fe5ca81e00185583cf?width=1200&format=jpeg',
+      'publishedAt': '2023-02-21T14:05:47Z',
+      'content': "Tesla shareholders need Elon Musk to start looking for his potential successor as CEO given the huge levels of stress he's under, according to a major investor in the EV maker.\r\nMusk is the chief exe… [+3240 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'lvaranasi@insider.com (Lakshmi Varanasi)',
+      'title': "Tesla investor Ross Gerber says he's planning to run for a seat on the board to revamp the company's image: 'I think it's time for Tesla to grow up'",
+      'description': "Tesla shareholder Ross Gerber said Friday in a Twitter Spaces audio conference that he's planning to run for a seat on Tesla's board.",
+      'url': 'https://www.businessinsider.com/tesla-investor-ross-gerber-running-for-seat-on-board-2023-2',
+      'urlToImage': 'https://i.insider.com/63e6a0364102a900184c5bed?width=1200&format=jpeg',
+      'publishedAt': '2023-02-10T20:14:12Z',
+      'content': 'Some investors are quiet, watching their shares in a company bob up and down with the stock market cycle. Others are more vocal, using their significant stake in a company to influence its management… [+1377 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'nnaughton@insider.com (Nora Naughton)',
+      'title': 'Tesla lost its edge — and Elon Musk has no one but himself to blame',
+      'description': 'Aging tech, stale car designs, and an outdated business model: How Elon Musk turned Tesla from his crown jewel into an overpriced jalopy.',
+      'url': 'https://www.businessinsider.com/elon-musk-ruined-tesla-technology-ford-gm-car-companies-evs-2023-2',
+      'urlToImage': 'https://i.insider.com/63efba1e0b940100196f6330?width=1200&format=jpeg',
+      'publishedAt': '2023-02-26T11:02:00Z',
+      'content': 'Mark has been driving a Tesla since 2014. But after almost a decade of loyalty to Elon Musk\'s electric-car company, his faith is starting to fade.\r\n"I feel stupid driving around with my brand-new Tes… [+11198 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'ztayeb@businessinsider.com (Zahra Tayeb)',
+      'title': "Tesla's stock is on a crazy ride, with a stunning rebound from 2022's freefall. Here's a timeline of the drama that drove it, from Elon Musk's Twitter gamble to aggressive price cuts",
+      'description': "Recession fears, the $44 billion Twitter buyout and aggressive price cuts - here's a timeline of the events that drove Tesla's rollercoaster stock-market ride over the past 12 months or so.",
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-timeline-elon-musk-twitter-deal-price-cuts-2023-2',
+      'urlToImage': 'https://i.insider.com/60365991bed5c50011a2c359?width=1200&format=jpeg',
+      'publishedAt': '2023-02-19T10:00:00Z',
+      'content': "Tesla's stock is on a roll this year.\r\nJust seven weeks into 2023, it has already surged 64% and several analysts are predicting a further rally in the EV maker's shares. Veteran Wal Street trader Ke… [+5564 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'bevans@insider.com (Brian Evans)',
+      'title': 'Tesla stock rallies as US boosts EV tax credit and China sales jump amid price cuts',
+      'description': 'The Treasury Department broadened its definition of SUV, allowing more models from Tesla and other carmakers to qualify for EV tax credits.',
+      'url': 'https://markets.businessinsider.com/news/stocks/tesla-stock-price-ev-tax-credit-china-sales-price-cuts-2023-2',
+      'urlToImage': 'https://i.insider.com/63dd4198e33c4000193add27?width=1200&format=jpeg',
+      'publishedAt': '2023-02-03T17:52:34Z',
+      'content': 'Tesla stock climbed on Friday on news of a wider US tax credit for electric vehicles and a sales spike in China.\xa0\r\nShares jumped as much as 5.7% to an intraday high of $199, continuing a rally that h… [+1349 chars]'
+    }
+  ],
+  'status': 'ok',
+  'totalResults': 14086
+}
